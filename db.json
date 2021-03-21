@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "name": "Homework",
+      "date": "22 March 2021",
+      "status": "Pending",
+      "id": 1
+    },
+    {
+      "name": "Youtube Video",
+      "date": "23 March 2021",
+      "status": "In progress",
+      "id": 3
+    },
+    {
+      "name": "Learn React",
+      "date": "25 May 2021",
+      "status": "In progress",
+      "id": 4
+    }
+  ]
+}

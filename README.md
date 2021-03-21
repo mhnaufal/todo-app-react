@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-1. git clone [this repo](https://github.com/mhnaufal/todo-app)
+1. git clone [this repo](https://github.com/mhnaufal/todo-app-react)
 2. get into the folder 
 3. Install required packages
     ```
